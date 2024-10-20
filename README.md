@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PohangCandy</h1>
-<h3 align="center">subtitle</h3>
+<h3 align="center">I'm interested in making Game</h3>
 
 <h3 align="left">All Project History : </h3>
 <p align="left">
