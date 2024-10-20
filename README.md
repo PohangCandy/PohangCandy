@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm PohangCandy</h1>
 <h3 align="center">I'm interested in making Game</h3>
 
+- 🔭 I’m currently working on [SmartCityProject](https://github.com/p7373993/SmartCity) and [BOJ](https://github.com/PohangCandy/Eagle)
+
 <h3 align="left">All Project History : </h3>
 <p align="left">
 <a href="https://www.youtube.com/@%eb%af%bc%ea%b8%b0%ec%b0%ac-c1m/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@%eb%af%bc%ea%b8%b0%ec%b0%ac-c1m/videos" height="30" width="40" /></a>
