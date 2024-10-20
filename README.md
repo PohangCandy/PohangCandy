@@ -6,7 +6,7 @@
 <a href="https://www.youtube.com/@%eb%af%bc%ea%b8%b0%ec%b0%ac-c1m/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@%eb%af%bc%ea%b8%b0%ec%b0%ac-c1m/videos" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://www.notion.so/Summary-125506f16dac80349f54dd5771b1413d?pvs=4" target="blank"><img align="center" src="https://i.namu.wiki/i/_ri-km-m02AnqGVSaEOrvoZGctUvCQFJlYOXDBZHy8l38oa7DpfTCdh3paDRK1qcSLWGXYBEzdkrazTUpcjvFQ.svg" alt="https://www.notion.so/Summary-125506f16dac80349f54dd5771b1413d?pvs=4" height="30" width="40" /></a>
+<a href="https://www.notion.so/Summary-125506f16dac80349f54dd5771b1413d?pvs=4" target="blank"><img align="center" src="http://www.w3.org/2000/svg" alt="https://www.notion.so/Summary-125506f16dac80349f54dd5771b1413d?pvs=4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
